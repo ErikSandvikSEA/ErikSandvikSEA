@@ -3,8 +3,8 @@
 <p><em>Full Stack Software Engineer <img src="https://lh3.googleusercontent.com/proxy/Iq0V7-ay7kdoVgQ-dzsmqO6pr_d0dQEyvy30ZFuHNHbgb8qexLRxlpekQZv1FiC79U_nNCMLqm9MTvuMBgM3fNGriuinkTq4Pr4nLMgI9dAMmcRbNuqpUcOvfwNUL5sU7mBNXOCJOLn2b5o5eW4VeSmJREzi7WL53ZQy-hv3DNZdb5SXMzVzyg" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Twitter: SandvikSEA](https://img.shields.io/twitter/follow/SandvikSEA?style=social)](https://twitter.com/SandvikSEA)
+[![Linkedin: erik-emil-sandvik](https://img.shields.io/badge/-erik-emil-sandvik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-emil-sandvik/)](https://www.linkedin.com/in/erik-emil-sandvik/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
@@ -13,15 +13,14 @@
 ```javascript
 const thai = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Javascript, HTML, CSS, Python, Typescript, SQLite],
+  tools: [React, Redux, Node, Express, Jest],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "RailsGirls POA"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
