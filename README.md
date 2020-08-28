@@ -7,23 +7,19 @@
 [![GitHub ErikSandvikSEA](https://img.shields.io/github/followers/ErikSandvikSEA?label=follow&style=social)](https://github.com/ErikSandvikSEA)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about what i do...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
+const erikSandvikSEA = {
+  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, Typescript, SQLite],
   tools: [React, Redux, Node, Express, Jest],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
+  location: [Seattle, WA],
+  email: [ErikSandvikSEA@gmail.com]
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 ---
 
