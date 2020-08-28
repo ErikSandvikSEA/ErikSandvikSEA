@@ -4,8 +4,7 @@
 </em></p>
 
 [![Twitter: SandvikSEA](https://img.shields.io/twitter/follow/SandvikSEA?style=social)](https://twitter.com/SandvikSEA)
-[![Linkedin: erik-emil-sandvik](https://img.shields.io/badge/-erik-emil-sandvik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-emil-sandvik/)](https://www.linkedin.com/in/erik-emil-sandvik/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub ErikSandvikSEA](https://img.shields.io/github/followers/ErikSandvikSEA?label=follow&style=social)](https://github.com/ErikSandvikSEA)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
