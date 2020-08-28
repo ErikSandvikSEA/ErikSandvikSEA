@@ -1,6 +1,6 @@
 <h2> Hi, I'm Erik Emil Sandvik! <img src="https://pngimage.net/wp-content/uploads/2018/06/van-cartoon-png-4.png" width="50">  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Seattle_Mariners_logo_%28low_res%29.svg/1200px-Seattle_Mariners_logo_%28low_res%29.svg.png" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Full Stack Software Engineer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
+<p><em>Full Stack Software Engineer <img src="https://lh3.googleusercontent.com/proxy/Iq0V7-ay7kdoVgQ-dzsmqO6pr_d0dQEyvy30ZFuHNHbgb8qexLRxlpekQZv1FiC79U_nNCMLqm9MTvuMBgM3fNGriuinkTq4Pr4nLMgI9dAMmcRbNuqpUcOvfwNUL5sU7mBNXOCJOLn2b5o5eW4VeSmJREzi7WL53ZQy-hv3DNZdb5SXMzVzyg" width="30"> 
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
