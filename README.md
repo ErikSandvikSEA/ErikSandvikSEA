@@ -11,10 +11,11 @@
 ```javascript
 const erikSandvikSEA = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Typescript, SQLite],
-  tools: [React, Redux, Node, Express, Jest],
+  code: [Javascript, HTML, CSS, Python, NodeJS, SQLite],
+  tools: [React, Redux, Express, Jest],
   location: [Seattle, WA],
-  email: [ErikSandvikSEA@gmail.com]
+  email: [ErikSandvikSEA@gmail.com],
+  linkedIn: [linkedin.com/in/erik-emil-sandvik]
 }
 ```
 
