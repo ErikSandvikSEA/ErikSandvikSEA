@@ -15,7 +15,8 @@ const erikSandvikSEA = {
   tools: [React, Redux, Express, Jest],
   location: [Seattle, WA],
   email: [ErikSandvikSEA@gmail.com],
-  linkedIn: [linkedin.com/in/erik-emil-sandvik]
+  linkedIn: [linkedin.com/in/erik-emil-sandvik],
+  portfolio: [ErikSandvik.com]
 }
 ```
 
