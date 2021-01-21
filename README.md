@@ -12,7 +12,7 @@
 const erikSandvikSEA = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, NodeJS, SQLite],
-  tools: [React, Redux, Express, Jest],
+  tools: [PySpark, React, Redux, Express, Jest],
   location: [Seattle, WA],
   email: [ErikSandvikSEA@gmail.com],
   linkedIn: [linkedin.com/in/erik-emil-sandvik],
